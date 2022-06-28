@@ -1,0 +1,248 @@
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <title>Home</title>
+  
+    <meta name="author" content="Fatema Tuz Johra Nourin">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="keywords" content="Fatema,Nourin,fatema nourin, transportation, research, GIS, Remote sensing, Urban Planning">
+    <link rel="stylesheet" href="stylesheet.css">
+</head
+<body>
+
+<div align=center> <table width=75% cellpadding=0 cellspacing=0> <tr align=left> <td>
+        <table border="0" cellspacing="20">
+            <tr valign=top>
+                <td width="280"> <img src="website image.jpg" alt="Andalib Shams" height='275'>
+                <td width="525">     <strong>Fatema Tuz Johra Nourin</strong> <br>
+                                        <em>Graduate Teaching Assistant</em> <br> 
+                                        Department of Community and Regional Planning<br>
+                                        Iowa State University<br>
+                                        <br>
+			
+					<em>GIS Technician</em> <br> 
+                                        Geographic Information Systems Support and Research Facility <br>
+					                              Iowa State University<br>
+                                        <br>
+			
+                                        Phone: 307-343-6772<br>
+                                        Email: <code>fnourin@iastate.edu</code><br>
+                                        <a href="Fatema_resume.pdf">Resume</a>
+            </tr>
+        </table>
+        
+        <hr>
+        
+        <p>
+            <a href="https://andalibshams.github.io/">Home</a> &emsp;||&emsp;
+            <a href="research.html">Research Experience</a> &emsp;||&emsp;
+            <a href="resources.html">Resources</a>
+        </p>
+        
+        <p>Hello, I am Andalib, a Ph.D. student and research assistant in the Department of Civil Engineering at Iowa State University (ISU). I am also working as transportation system research assistant at AI, Learning and Intelligent Systems group at the National Renewable Energy Lab (NREL) Computational Science center. My major is in transportation engineering and currently I am working on vehicle trajectory-based traffic signal control. In my work, intensive programming is required both to implement signal control strategy and to analyze signal performances. 
+         </p>
+        
+        <p>Some of the topics I'm interested in are: Adaptive Traffic Signal Control, Traffic Modeling and Simulation, Traffic Operations. </p>
+        <p>Feel free to drop me an email if you want to talk about any of these!</p>
+        
+	<a name="experience"><h3>Experience</h3></a><br>
+        <table style="width: 100%">
+			<colgroup>
+			   <col span="1" style="width: 20%;">
+			   <col span="1" style="width: 80%;">
+			</colgroup>
+			
+			<tbody>
+				<tr>
+					<td>April, 2022-Present</td>
+					<td>Transportation Systems Research Assitant at National Renewable Energy Lab</td>
+				</tr>
+				<tr>
+					<td>January, 2019-Present</td>
+					<td>Graduate Research Assistant at Iowa State University</td>
+				</tr>
+				<tr>
+					<td>January, 2017- August, 2018</td>
+					<td>Graduate Research Assistant at University of Wyoming</td>
+				</tr>
+				<tr>
+					<td>December, 2015- May, 2016</td>
+					<td>Short Term Consultant at The World Bank Group</td>
+				</tr>
+				<tr>
+					<td>January, 2015- February, 2015</td>
+					<td>Intern at Dhaka Transport Corporation Authority</td>
+				</tr>
+			</tbody>
+        </table>
+        <br>
+	
+        <a name="education"><h3>Education</h3></a><br>
+        <table style="width: 100%">
+			<colgroup>
+			   <col span="1" style="width: 15%;">
+			   <col span="1" style="width: 85%;">
+			</colgroup>
+			
+			<tbody>
+				<tr>
+					<td>2019-Present</td>
+					<td><b>Ph.D. in Civil Engineering (On-going)</b></td>
+				</tr>
+				
+				<tr>
+					<td>Institution</td>
+					<td>Iowa State University</td>
+				</tr>
+				
+				<tr>
+					<td>Advisor</td>
+					<td><a href = "https://scholar.google.com/citations?user=BJwtiVEAAAAJ&hl=en">Christopher M. Day</a></td>
+				</tr>
+			</tbody>
+        </table>
+        <br>
+        <table style="width: 100%">
+			<colgroup>
+			   <col span="1" style="width: 15%;">
+			   <col span="1" style="width: 85%;">
+			</colgroup>
+			
+			<tbody>
+				<tr>
+					<td>2017-2018</td>
+					<td><b>M.S. in Civil Engineering</b></td>
+				</tr>
+				
+				<tr>
+					<td>Institution</td>
+					<td>University of Wyoming</td>
+				</tr>
+				
+				<tr>
+					<td>Advisor</td>
+					<td><a href = "https://scholar.google.com/citations?user=LpLR2EoAAAAJ&hl=en">Milan Zlatkovic</a></td>
+				</tr>
+			</tbody>
+        </table>
+		
+        <br>
+        <table style="width: 100%">
+			<colgroup>
+			   <col span="1" style="width: 15%;">
+			   <col span="1" style="width: 85%;">
+			</colgroup>
+			
+			<tbody>
+				<tr>
+					<td>2010-2015</td>
+					<td><b>Bachelor of Urban and Regional Planning</b></td>
+				</tr>
+				
+				<tr>
+					<td>Institution</td>
+					<td>Bangladesh University of Engineering and Technology</td>
+				</tr>
+            </tbody>
+        </table>
+	
+	<br>
+	<h3>Major Courses Taken at Graduate Level</h3>
+	<br>
+	
+	<table style="width: 100%">
+		<colgroup>
+		   <col span="1" style="width: 15%;">
+		   <col span="1" style="width: 85%;">
+		</colgroup>
+		<tbody>
+			<tr>
+				<td>Transportation Engineering</td>
+				<td>Traffic Engineering, Traffic Simulation, Traffic Signal Control, Transportation Planning, Transportation Network Analysis, Traffic Safety</td>
+			</tr>
+
+			<tr>
+				<td>Statistics</td>
+				<td>Regression Analysis, Multi-variate Analysis, Design and Analysis of Experiments</td>
+			</tr>
+			
+			<tr>
+				<td>Computer Science</td>
+				<td>Design and Analysis of Algorithms</td>
+			</tr>
+			
+			<tr>
+				<td>Operation Reserarch</td>
+				<td>Computational Optimization</td>
+			</tr>
+			
+			<tr>
+				<td>Electrical Engineering</td>
+				<td>Deep Learning: Theory and Practices</td>
+			</tr>
+			
+			<tr>
+				<td>Courses taken at <a href = "https://www.coursera.org/">Coursera</a></td>
+				<td><a href = "https://www.coursera.org/learn/machine-learning">Machine Learning</a>, <a href = "https://www.coursera.org/specializations/reinforcement-learning">Reinforcement Learning</a></td>
+			</tr>
+            	</tbody>
+		
+	</table>
+	
+	
+	<br>
+	<h3>Technical Skills</h3>
+	<br>
+	
+	<table style="width: 100%">
+		<colgroup>
+		   <col span="1" style="width: 15%;">
+		   <col span="1" style="width: 85%;">
+		</colgroup>
+		<tbody>
+			<tr>
+				<td>Programming Language</td>
+				<td>Python, C++</td>
+			</tr>
+
+			<tr>
+				<td>Simulation Software</td>
+				<td>PTV VISSIM, PTV VISTRO, Synchro, PTV VISUM</td>
+			</tr>
+			
+			<tr>
+				<td>Data Analysis/Statistics Tool</td>
+				<td>Python library(NumPy, Panda, Matplotlib), R, SQL, MS Excel</td>
+			</tr>
+			
+			<tr>
+				<td>Optimization Tool</td>
+				<td>CPLEX</td>
+			</tr>
+			<tr>
+				<td>Deep Learning Tool</td>
+				<td>PyTorch</td>
+			</tr>
+			<tr>
+				<td>Others</td>
+				<td>Git, Latex</td>
+			</tr>
+            	</tbody>
+		
+	</table>
+        
+	<h3>Awards</h3>
+	<ol>
+		<li> ITS Minnesota Graduate Student Scholarship, 2021
+		<li> Bangladesh-Sweden Trust Fund Scholarship, 2018.
+	</ol>
+
+        
+        <p><em>Last updated April 27, 2022</em></p>
+
+	
+	
+       
+        </div> 
+    </body>
+</html> 
